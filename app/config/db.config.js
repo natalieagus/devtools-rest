@@ -1,6 +1,6 @@
 module.exports = {
-  HOST: "127.0.0.1",
+  HOST: "localhost",
   USER: "root",
-  PASSWORD: "",
+  PASSWORD: "", // insert your password here
   DB: "rest_api_js",
 };
