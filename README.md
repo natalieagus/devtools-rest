@@ -60,6 +60,7 @@ sudo systemctl status mysql
 Then install `node` packages:
 
 ```
+sudo apt install npm
 npm install
 ```
 
